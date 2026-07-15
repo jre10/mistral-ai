@@ -1,0 +1,3 @@
+# Dépendances pour Token Tracker
+# pandas est optionnel mais recommandé pour les fonctionnalités DataFrame
+pandas>=1.0.0
